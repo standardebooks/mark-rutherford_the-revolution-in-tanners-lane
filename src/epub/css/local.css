@@ -93,3 +93,8 @@ p span.i2{
 	text-indent: -1em;
 }
 /* end verse */
+
+/* Bespoke CSS */
+section#chapter-1 > p > span{
+	font-variant-caps: all-petite-caps;
+}

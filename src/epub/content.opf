@@ -35,9 +35,12 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85112657</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Two generations in early nineteenth century England experience convulsions in politics and religion.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;It is 1814, and the newly married Zachariah Coleman is restless. An ardent Dissenter, the tensions in his deeply held religious convictions are coming to the surface. A convinced Republican, his political commitments are leading him into conflict. And while he longs to love his young wife, he begins to fear he cannot. In due course, Zachariah becomes involved with the march of Blanketeers that left Manchester for London in 1817, but which quickly ended in disaster. Zachariah himself flees, his life changed forever.&lt;/p&gt;
+			&lt;p&gt;Once this story plays itself out, the narrative moves on twenty years to the next generation, and to the sleepy town of Cowfold where, again, the winds of political and religious change are blowing. Zachariah, now resident in London, has friends in the village. Their story begins to echo Zachariah’s own, albeit on a different scale, and with different contours and consequences.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Revolution in Tanner’s Lane&lt;/i&gt; is the third novel by &lt;a&gt;Mark Rutherford&lt;/a&gt;, the pen name of William Hale White. His writing career developed relatively late in his life, his first novel published when he was 50 while he worked as a parliamentary reporter. He published his novels not only pseudonymously, but so secretly that his own family was not aware of them—which was his intention. His novels were deeply autobiographical, and he wished to avoid associating his fiction with his family.&lt;/p&gt;
+			&lt;p&gt;Because of the current of ideas and ideals found in his books, he is now sometimes linked with another author who also wrote under a pen name: &lt;a href="https://standardebooks.org/ebooks/george-eliot"&gt;George Eliot&lt;/a&gt;. They were, as it happens, friends in their younger days before either had begun to produce fiction. While Eliot is now famous, Rutherford remains, unfortunately, little known, in spite of contemporary admiration from figures as diverse as &lt;a href="https://standardebooks.org/ebooks/henry-james"&gt;Henry James&lt;/a&gt;, André Gide, and &lt;a href="https://standardebooks.org/ebooks/d-h-lawrence"&gt;&lt;abbr&gt;D. H.&lt;/abbr&gt; Lawrence&lt;/a&gt;. Rutherford’s enduring appeal is well summed up by &lt;i&gt;The Concise Cambridge History of English Literature&lt;/i&gt;: “Emotional sincerity, descriptive power and critical restraint distinguish the work of this singular writer, whose work, never popular, will continue to attract those whose feelings about ultimate things lie deep.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6690</dc:source>
@@ -51,10 +54,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no96045809</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Augustus Leopold Egg</dc:contributor>
+		<meta property="file-as" refines="#artist">Egg, Augustus Leopold</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Augustus_Leopold_Egg</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n87123962</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Price</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
